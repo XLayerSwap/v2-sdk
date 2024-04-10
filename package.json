@@ -1,7 +1,7 @@
 {
   "name": "@xlayerswap/v2-sdk",
   "license": "MIT",
-  "version": "4.4.0",
+  "version": "4.4.1",
   "description": "🛠 An SDK for building applications on top of XLayerSwap",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -23,7 +23,7 @@
   "dependencies": {
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
-    "@xlayerswap/sdk-core": "^4.3.1",
+    "@xlayerswap/sdk-core": "^4.3.2",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
